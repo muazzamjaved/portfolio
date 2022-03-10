@@ -90,3 +90,8 @@ Project
 #project .card-title{
     font-weight: bold;
 }
+a.btn.btn-secondry {
+    background-color: #6c757d;
+    color: white;
+    border-color: #6c757d;
+}
