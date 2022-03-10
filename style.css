@@ -36,7 +36,7 @@ About
 #about {
     margin: +0px auto;
     max-width: 480px;
-    text-align: centre;
+    text-align: center;
 
 }
 
@@ -57,7 +57,7 @@ About
     margin-bottom:10px;
 }
 #about.skills {
-    font-size = 14px;
+    font-size : 14px;
     color: #00abae;
     margin-bottom:10px;
 }
